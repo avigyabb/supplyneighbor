@@ -1,0 +1,45 @@
+[[12-May-2021 11:30:37 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home3/thecamw3/public_html/database_connection.php:8
+Stack trace:
+#0 /home3/thecamw3/public_html/database_connection.php(8): PDO->__construct('mysql:host=loca...', 'thecamw3_avigya...', 'Avigya-3119')
+#1 /home3/thecamw3/public_html/index.php(2): include('/home3/thecamw3...')
+#2 {main}
+  thrown in /home3/thecamw3/public_html/database_connection.php on line 8
+[04-Jun-2021 18:07:56 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home3/thecamw3/public_html/database_connection.php:8
+Stack trace:
+#0 /home3/thecamw3/public_html/database_connection.php(8): PDO->__construct('mysql:host=loca...', 'thecamw3_avigya...', 'Avigya-3119')
+#1 /home3/thecamw3/public_html/index.php(2): include('/home3/thecamw3...')
+#2 {main}
+  thrown in /home3/thecamw3/public_html/database_connection.php on line 8
+[10-Sep-2021 03:22:48 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home3/thecamw3/public_html/database_connection.php:8
+Stack trace:
+#0 /home3/thecamw3/public_html/database_connection.php(8): PDO->__construct('mysql:host=loca...', 'thecamw3_avigya...', 'Avigya-3119')
+#1 /home3/thecamw3/public_html/index.php(2): include('/home3/thecamw3...')
+#2 {main}
+  thrown in /home3/thecamw3/public_html/database_connection.php on line 8
+[20-Oct-2021 13:51:49 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home3/thecamw3/public_html/database_connection.php:8
+Stack trace:
+#0 /home3/thecamw3/public_html/database_connection.php(8): PDO->__construct('mysql:host=loca...', 'thecamw3_avigya...', 'Avigya-3119')
+#1 /home3/thecamw3/public_html/index.php(2): include('/home3/thecamw3...')
+#2 {main}
+  thrown in /home3/thecamw3/public_html/database_connection.php on line 8
+[28-Oct-2021 05:11:29 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home3/thecamw3/public_html/database_connection.php:8
+Stack trace:
+#0 /home3/thecamw3/public_html/database_connection.php(8): PDO->__construct('mysql:host=loca...', 'thecamw3_avigya...', 'Avigya-3119')
+#1 /home3/thecamw3/public_html/index.php(2): include('/home3/thecamw3...')
+#2 {main}
+  thrown in /home3/thecamw3/public_html/database_connection.php on line 8
+[28-Oct-2021 05:30:27 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/thecamw3/public_html/database_connection.php on line 9
+[28-Oct-2021 05:30:28 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/thecamw3/public_html/database_connection.php on line 9
+[07-Nov-2021 11:57:22 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home3/thecamw3/public_html/database_connection.php on line 9
+[07-Nov-2021 11:57:23 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home3/thecamw3/public_html/database_connection.php:8
+Stack trace:
+#0 /home3/thecamw3/public_html/database_connection.php(8): PDO->__construct('mysql:host=loca...', 'thecamw3_avigya...', 'Avigya-3119')
+#1 /home3/thecamw3/public_html/index.php(2): include('/home3/thecamw3...')
+#2 {main}
+  thrown in /home3/thecamw3/public_html/database_connection.php on line 8
+[23-Nov-2021 22:35:10 America/Boise] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home3/thecamw3/public_html/database_connection.php:8
+Stack trace:
+#0 /home3/thecamw3/public_html/database_connection.php(8): PDO->__construct('mysql:host=loca...', 'thecamw3_avigya...', 'Avigya-3119')
+#1 /home3/thecamw3/public_html/index.php(2): include('/home3/thecamw3...')
+#2 {main}
+  thrown in /home3/thecamw3/public_html/database_connection.php on line 8
